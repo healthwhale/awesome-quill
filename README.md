@@ -57,7 +57,11 @@ A curated list of awesome things related to Quill
 
 > added by Yazid Jibrel
 
-- 
+- [Quill.js dictation](https://github.com/cobaltos/dictit) - Speech Recognition Tool Based On Speech Recognition API
+
+
+
+
 - [Quill editor in AI NLP projects](https://github.com/everling-prime/prose-ai) - Prose AI -- Intelligent Text Editor based on Quill.js and Python
 - [Quill.js annotation](https://github.com/hou2zi0/minimal-RTE__ner-training-data) - Minimal customization of Quill.js Rich Text Editor for easy annotation of text snippets for NER model training with spaCy.
 - [Quill attachements](https://github.com/CHNB128/quill-attachments) - Quill Attachements
